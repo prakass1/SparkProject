@@ -13,10 +13,10 @@ from kafka import SimpleProducer, KafkaClient
 
 
 # Set up credentials
-consumer_key='qpJSHBTqJjTfruBTRl9CiPzk8'
-consumer_secret='dWDojZtGNmol1CH3M1fwjRlXtsg4pesEhGO4uxxq5Eps98tsWN'
-access_token ='3038733591-q74L006dIAXtHIobuMpuUcfK1s8gph43fP1hE9C'
-access_secret='2IH05wnsavWWE2kJGc7DuEyGe7zB8k0jZ34AcQKnMmbyN'
+consumer_key=''
+consumer_secret=''
+access_token =''
+access_secret=''
 
 
 class TweetsListener(StreamListener):
