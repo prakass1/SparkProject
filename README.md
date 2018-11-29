@@ -1,4 +1,3 @@
-Task:
-The task of the project involves exploring usages of  Apache Spark and GraphX
+Task:Project involves exploring usages of  Apache Spark and GraphX
 
-TODO: Is to update all information here
+Complete tasks are documented as wiki page here : https://github.com/prakass1/SparkProject/wiki 
